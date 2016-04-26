@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">发送</string>
+    <string name="leftimg">left image</string>
+    <string name="rightimg">right image</string>
+	<string-array name="welcome_tips">
+	    <item >你好，我是是您的智能聊天机器人</item>
+	    <item >欢迎归来，请问有什么问题需要咨询？</item>
+	    <item >我是您的私人助理，很高兴为您服务</item>
+	</string-array>
+</resources>
